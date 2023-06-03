@@ -20,7 +20,7 @@
 <h3>:woman_technologist: About Me :</h3> 
 I am Rawan Zaben a Software Engineer , UI/ UX Designer from Saudi Arabia.
 
-- 🔭 I’m currently working on React Native Projects 
+- 🔭 I’m currently working on React  Projects 
 - 💬 Ask me about Any thing
 - 📫 How to reach me: rawanzabenal@gmail.com
 
