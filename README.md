@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3>:woman_technologist: About Me :</h3> 
-I am Rawan Zaben a Software Engineer (Front-End) | UI/ UX Designerfrom Saudi Arabia.
+I am Rawan Zaben a Software Engineer | UI/ UX Designerfrom Saudi Arabia.
 
 - 🔭 I’m currently working on React Native Projects 
 - 💬 Ask me about Any thing
